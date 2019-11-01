@@ -8,7 +8,7 @@ let package = Package(
         .library(name: "AlamofireNetworkActivityIndicator", targets: ["AlamofireNetworkActivityIndicator"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "5.0.0-rc.3")
+        .package(url: "https://github.com/Alamofire/Alamofire.git", from: "4.9.1")
     ],
     targets: [
         .target(
